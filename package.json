@@ -11,14 +11,5 @@
   "dependencies": {
     "express": "^4.13.3"
   },
-  "devDependencies": {},
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/lucky48829/socket-basic.git"
-  },
-  "bugs": {
-    "url": "https://github.com/lucky48829/socket-basic/issues"
-  },
-  "homepage": "https://github.com/lucky48829/socket-basic#readme",
-  "description": ""
+  
 }
